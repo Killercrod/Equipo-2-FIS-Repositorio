@@ -10,6 +10,7 @@
 4. [Equipos de trabajo](#id4)
 5. [Cronograma](#id5)
 6. [Nuestros requisitos](#id6)
+7. [Descripci[on del producto.](#id7)
    
 ## Introduccion<a name="id1"></a>
 
@@ -58,3 +59,6 @@ En cuestion de tiempos lo dividiremos en dos que seran:
 |     El sistema  desplegar las materias por semestre, mostrando nombre y creditos          |          El sistema deberá ofrecer estadísticas de uso que incluyan el total de usuarios registrados y el número de usuarios activos en línea              |
 |El sistema debe generar un aviso claro cuando se intente cargar una materia de otro semestre o sin los conocimientos previos necesarios.|  Optimización y despliegue correcto de la información en distintos dispositivos y sistemas operativos    |
 |  El sistema Incluye un tutorial de uso para la página             |    La base de datos se actualizará semestralmente mediante encuestas y trabajo de campo     |
+
+## Descripción del producto<a name="id7"></a>
+Nuestro producto está centrado en poder ayudar a los alumnos de nuevo ingreso teniendo problemas para comprender el sistema que se utiliza dentro del programa MEFI, se abarcan guías, información de las materias, así como consejos para poder satisfactoriamente avanzar en la carrera y "no morir en el intento".
